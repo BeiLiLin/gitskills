@@ -1,4 +1,7 @@
 # gitskills
 
 454545
-ssss
+<<<<<<< HEAD
+=======
+45656456
+>>>>>>> feature1
